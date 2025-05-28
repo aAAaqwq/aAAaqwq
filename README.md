@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aAAaqwq
 - 👀 I’m interested in golang combined with cloud native and golang microservices
-- 🌱 I’m currently learning AGI
-- 💞️ I’m looking to collaborate on keploy-GSOC-2025
+- 🌱 I’m currently learning kubeedge.
+- 💞️ I’m looking to be a go-cloud-edge engineer.
 - 📫 How to reach me :aaqwqaa68@gmail.com or 2067089451@qq.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: A.A
 - ⚡ Fun fact: ...
 
 <!---
