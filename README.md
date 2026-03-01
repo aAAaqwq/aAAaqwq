@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aAAaqwq
-- 👀 I’m interested in golang combined with cloud native and golang microservices
-- 🌱 I’m currently learning kubeedge and AIGC.
-- 💞️ I’m looking to be a golang or cloud-native engineer.
+- 👀 I’m interested in openclaw and AI cutting-edge technology applications
+- 🌱 I’m currently learning openclaw and AIGC.
+- 💞️ I’m looking to be a ai-navive or ai-coworking engineer.
 - 📫 How to reach me :aaqwqaa68@gmail.com or 2067089451@qq.com
 - 😄 Pronouns: A.A
 - 🌟 "I want to constantly learn and improve, always striving for excellence."
