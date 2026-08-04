@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning openclaw and AIGC.
 - 💞️ I’m looking to be a ai-navive or ai-coworking engineer.
 - 📫 How to reach me
-      - email: aaqwqaa68@gmail.com or 2067089451@qq.com
-      - wechat:aa_2067089451
-      - x：@Daniel_Li666
+  
+        email: aaqwqaa68@gmail.com or 2067089451@qq.com
+        wechat:aa_2067089451
+        x：@Daniel_Li666
+  
 - 😄 Pronouns: A.A
 - 💻 Personal Website：https://daniel-li-portfolio.pages.dev/
 - 🌟 "I want to constantly learn and improve, always striving for excellence."
